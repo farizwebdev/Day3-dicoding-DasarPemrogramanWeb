@@ -1,7 +1,5 @@
 # Submission Tugas Akhir: Belajar Dasar Pemrograman Web
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
 Website ini adalah portofolio pribadi yang dirancang dan dibangun dari nol menggunakan HTML5 dan CSS3 murni. Proyek ini dibuat untuk memenuhi kriteria kelulusan kelas "Belajar Dasar Pemrograman Web" di Dicoding, menampilkan profil, latar belakang pendidikan, dan keahlian teknis saya sebagai mahasiswa Informatika.
 
 ---
