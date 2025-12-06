@@ -58,4 +58,4 @@ Submission_Fariz Husain Albar/
 └── README.md                       # Dokumentasi proyek (File ini)
 ```
 
-Jangan lupa kasih Star yaaa
+Jangan lupa kasih Star yaaa gaisss!!!
