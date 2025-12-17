@@ -37,7 +37,7 @@ Desain visual menggunakan tema warna merah maroon (`#781919`) yang konsisten, me
 
 ## Struktur Folder
 
-Berikut adalah struktur direktori dari proyek ini:
+Berikut adalah struktur direktori dari proyekk ini:
 
 ```text
 Submission_Fariz Husain Albar/
